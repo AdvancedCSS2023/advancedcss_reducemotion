@@ -1,4 +1,4 @@
-# advancedcss_skiptomainlink
+# advancedcss_reducemotion
 
 Follow tutorial of Leanne R on reducing motion and toggle dark mode (https://www.youtube.com/watch?v=hObPr5IfFVU), 
 
